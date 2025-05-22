@@ -1,7 +1,8 @@
 1a_arrayoutputlink:https://github.com/aksh9471/ADJ_LAB_PROGRAMS/blob/main/1a_array/arrayList.png
-1b_array :-https://github.com/aksh9471/ADJ_LAB_PROGRAMS/blob/main/1b_array/Screenshot%202025-05-21%20230236.png
-         :-https://github.com/aksh9471/ADJ_LAB_PROGRAMS/blob/main/1b_array/Screenshot%202025-05-21%20230318.png
-         :-https://github.com/aksh9471/ADJ_LAB_PROGRAMS/blob/main/1b_array/Screenshot%202025-05-21%20230400.png
+1b_array
+:-https://github.com/aksh9471/ADJ_LAB_PROGRAMS/blob/main/1b_array/Screenshot%202025-05-21%20230236.png
+:-https://github.com/aksh9471/ADJ_LAB_PROGRAMS/blob/main/1b_array/Screenshot%202025-05-21%20230318.png
+:-https://github.com/aksh9471/ADJ_LAB_PROGRAMS/blob/main/1b_array/Screenshot%202025-05-21%20230400.png
 1c_linked list :-https://github.com/aksh9471/ADJ_LAB_PROGRAMS/blob/main/1c_linkedlist/Screenshot%202025-05-21%20230834.png
 2a_string :https://github.com/aksh9471/ADJ_LAB_PROGRAMS/blob/main/2a_string/Screenshot%202025-05-22%20205841.png
 2 b performance :-https://github.com/aksh9471/ADJ_LAB_PROGRAMS/blob/main/2b_performance/2boutput%20(1).png
